@@ -36,5 +36,3 @@ Both implementations generate structured documentation including command descrip
 - Browse all documented commands
 - Display comprehensive command information
 - Easy navigation through documentation
-
-## 📁 Project Structure
